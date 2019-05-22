@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eetohthae.degete.cat/sitemap.xml
